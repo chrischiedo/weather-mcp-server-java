@@ -97,7 +97,7 @@ vi ~/Library/Application\ Support/Claude/claude_desktop_config.json
 
 **Note**: Remember to replace `/absolute/path/to/` with the actual path to your built jar file.
 
-### Example prompts for Claude
+### Example prompts for Claude Desktop
 
 Once connected, you can ask Claude to use the weather tool:
 
