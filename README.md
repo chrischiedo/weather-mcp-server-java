@@ -87,7 +87,7 @@ To integrate the MCP server with Claude Desktop, add the following configuration
 vi ~/Library/Application\ Support/Claude/claude_desktop_config.json
 ```
 
->**Note**: Remember to replace `/absolute/path/to/` with the actual path to your built jar file.
+**Note**: Remember to replace `/absolute/path/to/` with the actual path to your built jar file.
 
 ### Example prompts for Claude
 
@@ -97,11 +97,11 @@ Once connected, you can ask Claude to use the weather tool:
 
 <img width="1532" alt="sample-claude-desktop-screenshot1" src="screenshots/screenshot1.png">
 
-1. "Is it raining in London right now?"
+2. "Is it raining in London right now?"
 
 <img width="1536" alt="sample-claude-desktop-screenshot2" src="screenshots/screenshot2.png">
 
-1. "Tell me the temperature in Paris right now."
+3. "Tell me the temperature in Paris right now."
 
 <img width="1522" alt="sample-claude-desktop-screenshot2" src="screenshots/screenshot3.png">
 
