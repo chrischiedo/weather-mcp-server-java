@@ -131,8 +131,8 @@ This server implements the Model Context Protocol to provide a tool that fetches
 
 You can extend this server by:
 
-1. Adding more weather-related tools (forecast, historical data, etc.)
-2. Implementing other MCP features like resources or prompts
+1. Adding more weather-related tools (forecasts, alerts, historical data, etc.)
+2. Implementing other MCP capabilities like resources or prompts
 3. Using a different weather API with more features (for example, [wunderground](https://www.wunderground.com/weather/api))
 
 ## License
