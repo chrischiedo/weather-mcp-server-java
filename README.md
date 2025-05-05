@@ -43,8 +43,8 @@ The server uses STDIO transport mode and is typically started automatically by t
 ### Clone the repository
 The first step is to clone the project:
 ```bash
-git clone <repo-url>
-cd weather-mcp-server
+git clone https://github.com/chrischiedo/weather-mcp-server-java.git
+cd weather-mcp-server-java
 ```
 
 ### Build the project
@@ -93,19 +93,19 @@ vi ~/Library/Application\ Support/Claude/claude_desktop_config.json
 
 Once connected, you can ask Claude to use the weather tool:
 
-"What's the current weather in Nairobi?"
+1. "What's the current weather in Nairobi?"
 
 <img width="1532" alt="sample-claude-desktop-screenshot1" src="screenshots/screenshot1.png">
 
-"Is it raining in London right now?"
+1. "Is it raining in London right now?"
 
 <img width="1536" alt="sample-claude-desktop-screenshot2" src="screenshots/screenshot2.png">
 
-"Tell me the temperature in Paris right now."
+1. "Tell me the temperature in Paris right now."
 
 <img width="1522" alt="sample-claude-desktop-screenshot2" src="screenshots/screenshot3.png">
 
->**Note**: The prompts above were taken on 4th May 2025.
+**Note**: The prompts above were taken on _4th May 2025_.
 
 ## How it works
 
@@ -121,7 +121,7 @@ You can extend this server by:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE)
+This project is open source and available under the [MIT License](LICENSE).
 
 ## Further Resources
 
