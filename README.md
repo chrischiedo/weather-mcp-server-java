@@ -48,11 +48,13 @@ cd weather-mcp-server-java
 ```
 
 ### Build the project
-To build the server jar:
+To build the server jar, use:
 
 ```bash
 ./mvnw clean install -DskipTests
 ```
+
+This will create a jar file in the `target` directory.
 
 ### Run tests
 To run tests, use:
