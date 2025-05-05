@@ -101,17 +101,23 @@ vi ~/Library/Application\ Support/Claude/claude_desktop_config.json
 
 Once connected, you can ask Claude to use the weather tool:
 
-1. "What's the current weather in Nairobi?"
+<details>
+<summary>1. "What's the current weather in Nairobi?"
 
 <img width="1532" alt="sample-claude-desktop-screenshot1" src="screenshots/screenshot1.png">
+</details>
 
-2. "Is it raining in London right now?"
+<details>
+<summary>2. "Is it raining in London right now?"
 
 <img width="1536" alt="sample-claude-desktop-screenshot2" src="screenshots/screenshot2.png">
+</details>
 
-3. "Tell me the temperature in Paris right now."
+<details>
+<summary>3. "Tell me the temperature in Paris right now."
 
 <img width="1522" alt="sample-claude-desktop-screenshot2" src="screenshots/screenshot3.png">
+</details>
 
 **Note**: The prompts above were taken on _4th May 2025_.
 
