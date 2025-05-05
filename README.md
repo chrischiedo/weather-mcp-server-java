@@ -54,12 +54,20 @@ To build the server jar:
 ./mvnw clean install -DskipTests
 ```
 
+### Run tests
+To run tests, use:
+
+```bash
+./mvnw test
+```
+
 ## Usage
 
 ### Running the server
+Execute the jar file to start the MCP server:
 
 ```bash
-./mvnw spring-boot:run
+java -jar target/weather-mcp-server-0.0.1-SNAPSHOT.jar
 ```
 
 ### Claude Desktop Integration
