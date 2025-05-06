@@ -16,7 +16,8 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP)
 
 - Java 17 or later
 - Maven 3.6 or later
-- [Claude Desktop](https://claude.ai/download) for AI assistant integration (used as an MCP Client)
+- Spring Boot 3.3.x or later
+- [Claude for Desktop](https://claude.ai/download) for AI assistant integration (used as an MCP Client)
 
 ## Dependencies
 
