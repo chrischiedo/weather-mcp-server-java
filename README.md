@@ -2,6 +2,8 @@
 
 A simple Model Context Protocol (MCP) server that provides weather information for any location.
 
+Accompanying blog post: [Building a simple MCP Server in Java](https://chrischiedo.github.io/java-mcp-server/).
+
 ## What is MCP?
 
 The [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) is a standardized way for AI applications and agents to connect with data sources and tools. It allows AI models like Claude to interact with your local system, external services, and custom tools through a standardized interface.
@@ -122,7 +124,7 @@ Once connected, you can ask Claude to use the weather tool:
 <img width="1522" alt="sample-claude-desktop-screenshot2" src="screenshots/screenshot3.png">
 </details>
 
-**Note**: The prompts above were taken on _4th May 2025_.
+**Note**: The prompts above were issued on _4th May 2025_.
 
 ## How it works
 
